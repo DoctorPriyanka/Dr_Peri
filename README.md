@@ -13,9 +13,9 @@
 
 - 🎓 I hold a **PhD from The University of Texas at Austin** and a prior degree from **IIT Bombay**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/priyankapaithankar/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/priyankapaithankar/](https://www.linkedin.com/in/priyankapaithankar/)
 
-- 📝 I regularly write articles on [https://www.procurepixie.com/](https://www.linkedin.com/in/priyankapaithankar/)
+- 📝 I regularly write articles on [https://www.procurepixie.com/](https://www.procurepixie.com/)
 
 - 💬 Ask me about **econometrics, C++ modeling, and AI for supply chain & transportation**
 
